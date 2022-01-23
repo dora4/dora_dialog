@@ -12,15 +12,15 @@
 
 ### 照片
 
-![avatar](https://github.com/dora4/dora_x/blob/main/art/dora_dialog.jpg)
+![avatar](https://github.com/dora4/dora_dialog/blob/main/art/dora_dialog.jpg)
 
 ### 动图
 
-![avatar](https://github.com/dora4/dora_x/blob/main/art/dora_dialog.gif)
+![avatar](https://github.com/dora4/dora_dialog/blob/main/art/dora_dialog.gif)
 
 ### 软件包
 
-https://github.com/dora4/dora_x/blob/main/art/dora_dialog.apk
+https://github.com/dora4/dora_dialog/blob/main/art/dora_dialog.apk
 
 ### 用法
 
