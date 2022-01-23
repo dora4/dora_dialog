@@ -38,7 +38,8 @@ val tvShowDialog = findViewById<TextView>(R.id.tvShowDialog)
         }
 ```
 
-| 类         | API    | 描述                                 |
-| ---------- | ------ | ------------------------------------ |
-| DoraDialog | show   | 对话框显示                           |
-| DoraDialog | toggle | 对话框显示状态则隐藏，隐藏状态则显示 |
+| 类            | API     | 描述                                 |
+| ------------- | ------- | ------------------------------------ |
+| DoraDialog    | show    | 对话框显示                           |
+| DoraDialog    | toggle  | 对话框显示状态则隐藏，隐藏状态则显示 |
+| ADialogWindow | destroy | 隐藏或取消对话框                     |
